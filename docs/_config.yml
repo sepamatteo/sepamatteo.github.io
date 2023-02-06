@@ -22,7 +22,7 @@ title: Sepa Matteo
 email: sepamatteo@proton.me
 description: >- # this means to ignore newlines until "baseurl:"
 
-“In the midst of chaos, there is also opportunity” 
+In the midst of chaos, there is also opportunity 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sepamatteo
