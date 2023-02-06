@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "signature"
+title: "Sepa Matteo PGP public signature"
 permalink: /signature
 ---
 
