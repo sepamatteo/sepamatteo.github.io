@@ -7,5 +7,5 @@ permalink: /about/
 .......
 
 
-![alt text](https://i.redd.it/j84wk5w1nbd51.jpg "YE")
+![alt text](https://i.redd.it/bnkumay1nbd51.png "YE")
 
