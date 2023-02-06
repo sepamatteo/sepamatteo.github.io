@@ -1,6 +1,8 @@
+---
 layout: page
 title: "PAGE-TITLE"
 permalink: /URL-PATH
+---
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
