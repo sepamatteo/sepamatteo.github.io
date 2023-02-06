@@ -1,6 +1,7 @@
 layout: page
-title: "signature"
-permalink: /signature
+title: "PAGE-TITLE"
+permalink: /URL-PATH
+
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQGNBGPhEIoBDADYRkoi5LJdO8rqBZzkQq++ck3QDCOQF9vcK2VTE60KUt5f+ZAs
