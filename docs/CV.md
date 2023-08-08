@@ -1,6 +1,6 @@
 ---
 permalink: /public-cv.html
-layout: default
+layout: page
 ---
 
 <object data="https://sepamatteo.github.io/public-CV.pdf" type="application/pdf" width="700px" height="700px">
