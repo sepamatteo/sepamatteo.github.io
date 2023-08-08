@@ -1,6 +1,7 @@
 ---
-permalink: /public-cv.html
 layout: page
+title: "Sepa Matteo Public CV"
+permalink: /public-cv
 ---
 
 <object data="https://sepamatteo.github.io/public-CV.pdf" type="application/pdf" width="700px" height="700px">
