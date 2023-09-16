@@ -4,8 +4,4 @@ title: "Sepa Matteo Public CV"
 permalink: /public-cv
 ---
 
-<object data="https://sepamatteo.github.io/pdf/public-CV.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://sepamatteo.github.io/pdf/public-CV.pdf)">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://sepamatteo.github.io/public-CV.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+<object data="https://sepamatteo.github.io/pdf/public-CV.pdf" width="1000" height="1000" type='application/pdf'></object>
